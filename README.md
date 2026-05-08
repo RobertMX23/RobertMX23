@@ -76,5 +76,5 @@ I am looking for a remote Junior Data Analyst role where I can contribute to:
 
 ## Contact
 
-LinkedIn: https://www.linkedin.com/in/robertogarciaits
-Email: robertogarciaits@gmail.com
+- LinkedIn: https://www.linkedin.com/in/robertogarciaits
+- Email: robertogarciaits@gmail.com
