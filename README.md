@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Roberto García 👋
+
+Junior Data Analyst | SQL · Excel · Power BI · Python | Operations & Risk
 
 <!--
 **RobertMX23/RobertMX23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
