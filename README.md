@@ -1,6 +1,6 @@
 # Hi, I'm Roberto García 👋
 
-## Junior Data Analyst | SQL · Excel · Power BI · Python | Operations & Risk
+##  Data Analyst | SQL · Excel · Power BI · Python | Operations & Risk
 
 I am transitioning into Data Analytics with a strong background in operations, risk, reporting and process documentation.
 
