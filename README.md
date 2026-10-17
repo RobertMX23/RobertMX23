@@ -1,6 +1,6 @@
 # Hi, I'm Roberto García 👋
 
-##  Data Analyst | SQL · Excel · Power BI · Python | Operations & Risk
+##  Cloud & AI/ML Solutions Engineer | Preparing for Google Cloud (GCP) Machine Learning Engineer | Cloud Architect | Ex-General Motors EHS Specialist | Mechatronics Engineer & MBA | Data Analyst | English B2 | Visa B1/B2 |
 
 I am transitioning into Data Analytics with a strong background in operations, risk, reporting and process documentation.
 
